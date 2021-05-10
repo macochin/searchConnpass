@@ -1,4 +1,4 @@
-// LINE Notifyでトークルームのトークンを取得して以下に設定★
+// LINE Notifyでトークルームのトークンを取得して以下に設定
 var LINE_NOTIFY_TOKEN = PropertiesService.getScriptProperties().getProperty('LINE_NOTIFY_TOKEN');
 var NOTIFY_API = "https://notify-api.line.me/api/notify";
 
